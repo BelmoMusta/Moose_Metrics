@@ -1,4 +1,4 @@
-package parsers;
+package med.rist.moose;
 
 import com.github.javaparser.ast.CompilationUnit;
 import com.github.javaparser.ast.NodeList;

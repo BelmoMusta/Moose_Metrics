@@ -1,4 +1,4 @@
-package parsers;
+package med.rist.moose;
 
 import com.github.javaparser.ParseResult;
 import com.github.javaparser.ParserConfiguration;

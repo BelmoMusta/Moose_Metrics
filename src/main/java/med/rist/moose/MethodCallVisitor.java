@@ -1,4 +1,4 @@
-package parsers;
+package med.rist.moose;
 
 import com.github.javaparser.ast.expr.MethodCallExpr;
 import com.github.javaparser.ast.visitor.VoidVisitorAdapter;
